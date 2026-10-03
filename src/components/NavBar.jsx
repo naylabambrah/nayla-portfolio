@@ -16,7 +16,7 @@ function NavBar() {
     <header className="navbar">
       <Link to="/" className="brand">
         <img src="/logo.svg" alt="My logo" width="40" height="40" />
-        <span>Your Name</span>
+        <span> Nayla Bambrah</span>
       </Link>
       <nav>
         {navigationLinks.map((link) => (

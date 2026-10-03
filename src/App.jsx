@@ -27,3 +27,5 @@ function App() {
 }
 
 export default App;
+
+<footer className="footer">© 2026 Nayla. Toronto, ON</footer>
